@@ -1,0 +1,7 @@
+#Mon Oct 03 22:18:45 BRT 2016
+base.0=/home/mario/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9439e4ebaafe8093bc56214b64119cfddfa367ed
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/mario/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_edf4293bd09b71a6c33e950330a24a008972c69a/classes.dex
+base.1=/home/mario/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_edf4293bd09b71a6c33e950330a24a008972c69a
+file.0=/home/mario/AndroidStudioProjects/Sunshine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9439e4ebaafe8093bc56214b64119cfddfa367ed/classes.dex
